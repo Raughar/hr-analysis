@@ -5,7 +5,7 @@ This is my final project for the Ironhack Data Analytics Bootcamp. My aim is to 
 
 Then, I will use Tableau to delve deeper in the data and create a dashboard so the company management and the HR department can look at those insights and apply informed decissions on the future of the company.
 
-I will also create a Streamlit app to predict the attrition of an employee, you can acces it here: https://github.com/Raughar/hr-analysis-streamlit
+I will also create a Streamlit app to predict the attrition of an employee, you can acces it here: [Streamlit App Repo](https://github.com/Raughar/hr-analysis-streamlit)
 
 ### Project Objectives:
 The aim of the project is to get insights into the attrition of employees and the factors that affect it. To get the best results, I have prepared the following questions:
@@ -24,11 +24,11 @@ The creation of a predictive model will also help to create a program to track t
 ### Technologies Used:
 - Python
 - Tableau
-- Scikit-learn library: https://scikit-learn.org/
-- Imblearn library: https://imbalanced-learn.org/stable/index.html
-- Feature-engine library: https://feature-engine.trainindata.com/
-- Pandas library: https://pandas.pydata.org/
-- Matplotlib library: https://matplotlib.org/
-- Seaborn library: https://seaborn.pydata.org/
-- Streamlit : https://streamlit.io/
-- Dataset used: https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study
+- [Scikit-learn library](https://scikit-learn.org/)
+- [Imblearn library](https://imbalanced-learn.org/stable/index.html)
+- [Feature-engine library](https://feature-engine.trainindata.com/)
+- [Pandas library](https://pandas.pydata.org/)
+- [Matplotlib library](https://matplotlib.org/)
+- [Seaborn library](https://seaborn.pydata.org/)
+- [Streamlit](https://streamlit.io/)
+- [Dataset used](https://www.kaggle.com/datasets/bhanupratapbiswas/hr-analytics-case-study)
